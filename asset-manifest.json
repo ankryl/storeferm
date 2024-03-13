@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/storeferm/static/css/main.47431775.css",
-    "main.js": "/storeferm/static/js/main.d2eba09b.js",
+    "main.js": "/storeferm/static/js/main.fad112b3.js",
     "static/media/logo.svg": "/storeferm/static/media/logo.2035ec915af447fc62cb6d9ddc4eff27.svg",
     "index.html": "/storeferm/index.html",
     "static/media/checkbox.svg": "/storeferm/static/media/checkbox.dc3575370e917c3ca922d26b427bad17.svg",
     "main.47431775.css.map": "/storeferm/static/css/main.47431775.css.map",
-    "main.d2eba09b.js.map": "/storeferm/static/js/main.d2eba09b.js.map"
+    "main.fad112b3.js.map": "/storeferm/static/js/main.fad112b3.js.map"
   },
   "entrypoints": [
     "static/css/main.47431775.css",
-    "static/js/main.d2eba09b.js"
+    "static/js/main.fad112b3.js"
   ]
 }
